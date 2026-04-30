@@ -1,2 +1,11 @@
-> **Source:** [EU Data Protection Project Tasks.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/European Union/3. Projects/EU Data Protection Project Tasks.docx)
+---
+country: European Union
+document_name: EU Data Protection Project Tasks
+source_file: EU Data Protection Project Tasks.docx
+extracted_date: 2026-04-30
+jurisdiction: European Union
+---
 
+# EU Data Protection Project Tasks
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
