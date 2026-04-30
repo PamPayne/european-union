@@ -4,12 +4,7 @@ Markdown versions of regulatory documents for European Union, sourced from the D
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [Data Protection EU Ops Requirements Summary](Data_Protection_EU_-_Ops_Requirements_Summary.md) | Data Protection EU - Ops Requirements Summary.docx |
-| [Data Protection Seminar](Data_protection_Seminar.md) | Data protection Seminar.docx |
-| [EU Data Protection BRD](EU_Data_Protection_BRD.md) | EU Data Protection BRD.docx |
-| [EU Data Protection Project Tasks](EU_Data_Protection_Project_Tasks.md) | EU Data Protection Project Tasks.docx |
+*Document index will be updated once files are processed.*
 
 ## Source
 
