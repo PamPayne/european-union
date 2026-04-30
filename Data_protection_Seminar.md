@@ -1,2 +1,11 @@
-> **Source:** [Data protection Seminar.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/European Union/3. Projects/Data protection Seminar.docx)
+---
+country: European Union
+document_name: Data protection Seminar
+source_file: Data protection Seminar.docx
+extracted_date: 2026-04-30
+jurisdiction: European Union
+---
 
+# Data protection Seminar
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
